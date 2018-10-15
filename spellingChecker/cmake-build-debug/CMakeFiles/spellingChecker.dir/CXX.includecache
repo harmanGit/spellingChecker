@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Katrina/Documents/GitHub/spellingChecker/spellingChecker/AvlTest.cpp
+iostream
+-
+iomanip
+-
+fstream
+-
+string
+-
+AvlTree.h
+C:/Users/Katrina/Documents/GitHub/spellingChecker/spellingChecker/AvlTree.h
+
+C:/Users/Katrina/Documents/GitHub/spellingChecker/spellingChecker/AvlTree.cpp
+
+C:/Users/Katrina/Documents/GitHub/spellingChecker/spellingChecker/AvlTree.h
+AvlTree.cpp
+C:/Users/Katrina/Documents/GitHub/spellingChecker/spellingChecker/AvlTree.cpp
+
