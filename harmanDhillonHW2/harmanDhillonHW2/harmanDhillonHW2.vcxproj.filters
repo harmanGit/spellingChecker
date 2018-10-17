@@ -27,23 +27,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\ALLADIN.TXT">
-      <Filter>Resource Files</Filter>
-    </Text>
-    <Text Include="..\baby.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
-    <Text Include="..\BILLCLNT.TXT">
-      <Filter>Resource Files</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\baby.dct">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="..\BIG.DCT">
-      <Filter>Resource Files</Filter>
-    </None>
-  </ItemGroup>
 </Project>

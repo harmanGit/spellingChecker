@@ -43,7 +43,12 @@ int main()
 		}
 		file.close();
 	}
-	else cout << "Unable to open file";
+	else cout << "File error, when attempting to open the given file.";
+
+	ofstream o("errorFile.txt");
+
+	o << "Hello, World\n" << std::endl;
+
 
 	char c;
 	cin >> c;
