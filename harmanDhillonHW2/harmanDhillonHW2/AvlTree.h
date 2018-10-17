@@ -27,6 +27,7 @@ class AvlNode
 	AvlNode   *left;
 	AvlNode   *right;
 	int        height;
+	bool isDeleted = false;
 
 	AvlNode(const Comparable & theElement, AvlNode *lt, AvlNode *rt, int h = 0)
 		: element(theElement), left(lt), right(rt), height(h) { }
@@ -52,11 +53,13 @@ public:
 	void insert(const Comparable & x);
 	void remove(const Comparable & x);
 	void makeEmpty();
+	int getAVLTreeSize();
 
 private:
 	// data members
 	AvlNode<Comparable> *root;
 	const Comparable ITEM_NOT_FOUND;
+	int avlTreeSize;
 
 	// private counterparts of public methods - all require a ptr to root of current (sub)tree
 
@@ -76,6 +79,7 @@ private:
 	void rotateWithRightChild(AvlNode<Comparable> * & k1);
 	void doubleWithLeftChild(AvlNode<Comparable> * & k3);
 	void doubleWithRightChild(AvlNode<Comparable> * & k1);
+
 };
 
 #include "AvlTree.cpp"

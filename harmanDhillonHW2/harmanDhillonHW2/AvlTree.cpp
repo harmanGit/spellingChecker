@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 
 /**
  * Partial implementation of an AVL search tree.
@@ -187,8 +189,7 @@ int AvlTree<Comparable>::height(AvlNode<Comparable> *t) const
 template <class Comparable>
 void AvlTree<Comparable>::remove(const Comparable & x)
 {
-	cout << "Sorry, remove unimplemented; " << x <<  // <--- Implement this public method
-		" still present" << endl;
+	remove(x, root);
 }
 
 /**
@@ -198,7 +199,11 @@ void AvlTree<Comparable>::remove(const Comparable & x)
 template <class Comparable>
 void AvlTree<Comparable>::remove(const Comparable & x, AvlNode<Comparable> * & t)
 {
-	// <--- Implement this private method
+	if (find(x, t) != NULL)
+	{
+		t->isDeleted = true;
+		-avlTreeSize;
+	}
 }
 
 /**
@@ -214,16 +219,28 @@ void AvlTree<Comparable>::insert(const Comparable & x, AvlNode<Comparable> * & t
 	else if (x < t->element)
 	{
 		insert(x, t->left);
-
+		if (height(t->left) - height(t->right) == 2)
+		{
+			if (x < t->left->element)
+				rotateWithLeftChild(t);
+			else
+				doubleWithLeftChild(t);
+		}
 	}
 	else if (t->element < x)
 	{
 		insert(x, t->right);
-
+		if (height(t->right) - height(t->left) == 2)
+		{
+			if (t->right->element < x)
+				rotateWithRightChild(t);
+			else
+				doubleWithRightChild(t);
+		}
 	}
 	else
 		;  // Duplicate; do nothing
-
+	t->height = max(height(t->left), height(t->right)) + 1;
 }
 
 /**
@@ -232,7 +249,10 @@ void AvlTree<Comparable>::insert(const Comparable & x, AvlNode<Comparable> * & t
 template <class Comparable>
 int AvlTree<Comparable>::max(int lhs, int rhs) const
 {
-	return 0; // temporary code, just so it will compile   <----------- Finish this
+	if (rhs > lhs)
+		return rhs;
+	else
+		return lhs;
 }
 
 /**
@@ -243,12 +263,13 @@ int AvlTree<Comparable>::max(int lhs, int rhs) const
 template <class Comparable>
 void AvlTree<Comparable>::rotateWithLeftChild(AvlNode<Comparable> * & k2)
 {
-	AvlNode<Comparable> *k1 = k2->left;
-	k2->left = k1->right;
-	k1->right = k2;
-	k2->height = max(height(k2->left), height(k2->right)) + 1;
-	k1->height = max(height(k1->left), k2->height) + 1;
-	k2 = k1;
+		AvlNode<Comparable> *k1 = k2->left;
+		k2->left = k1->right;
+		k1->right = k2;
+		k2->height = max(height(k2->left), height(k2->right)) + 1;
+		k1->height = max(height(k1->left), k2->height) + 1;
+		k2 = k1;
+	
 }
 
 /**
@@ -259,7 +280,14 @@ void AvlTree<Comparable>::rotateWithLeftChild(AvlNode<Comparable> * & k2)
 template <class Comparable>
 void AvlTree<Comparable>::rotateWithRightChild(AvlNode<Comparable> * & k1)
 {
-	// <----------- Finish this
+
+		AvlNode<Comparable> *k2 = k1->right;
+		k1->right = k2->left;
+		k2->left = k1;
+		k1->height = max(height(k1->right), height(k1->left)) + 1;
+		k2->height = max(height(k2->right), k1->height) + 1;
+		k1 = k2;
+	
 }
 
 /**
@@ -284,7 +312,14 @@ void AvlTree<Comparable>::doubleWithLeftChild(AvlNode<Comparable> * & k3)
 template <class Comparable>
 void AvlTree<Comparable>::doubleWithRightChild(AvlNode<Comparable> * & k1)
 {
-	// <----------- Finish this
+	rotateWithLeftChild(k1->right);
+	rotateWithRightChild(k1);
+}
+
+template <class Comparable>
+int AvlTree<Comparable>::getAVLTreeSize()
+{
+	return avlTreeSize;
 }
 
 
