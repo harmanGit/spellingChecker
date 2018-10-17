@@ -50,7 +50,7 @@ public:
 
 	void insert(const Comparable & x);
 	void remove(const Comparable & x);
-	void traverse(AvlNode<Comparable> * & t);
+	void traverse(void f(Comparable&));
 	void makeEmpty();
 	int getAVLTreeSize();
 

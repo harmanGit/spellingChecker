@@ -9,11 +9,17 @@
 using namespace std;
 
 const string ITEM_NOT_FOUND = "99999";
+ofstream fileWriter;
+
+void writeErrorFile(string &s)
+{	
+	fileWriter << s << endl;
+}
 
 int main()
 {
 	AvlTree<string> words(ITEM_NOT_FOUND);  // constructs an empty tree of ints that returns 99999 when find fails
-
+	fileWriter.open("errorFile.txt");
 	string fileName;
 	string textFileName;
 	string dictionaryFileName;
@@ -23,10 +29,10 @@ int main()
 	string singleWord;
 	char singleChar;
 
-	cout << "Please enter the name for the file you want to spell check ---> " << endl;
+	cout << "Please enter the name for the file you want to spell check ---> ";
 	cin >> fileName;
 	textFileName = fileName + ".txt";
-	cout << "Please enter the name for of the dictionary you want to use to check ---> " << endl;
+	cout << "Please enter the name for of the dictionary you want to use to check ---> ";
 	cin >> fileName;
 	dictionaryFileName = fileName +  ".dct";
 
@@ -36,13 +42,13 @@ int main()
 	{
 		while (getline(textFile, singleLine))//going line by line in the text file
 		{
-			singleLine += "#";// used to detect newlines
+			singleLine += "#";//used to detect new lines
 			for (int i = 0; i < singleLine.length(); ++i)//going char by char in the single line
 			{
 				singleChar = tolower(singleLine[i]);// converting to lowercase if char is uppercase
 				if (isalpha(singleChar))//checking if char thats lowercase is a letter
 					singleWord += singleChar;//adding it too the word
-				else
+				else if (singleWord.length() >= 1)
 				{
 					words.insert(singleWord);//inserting the word to the avl tree
 					singleWord = "";//resetting the word
@@ -54,25 +60,21 @@ int main()
 	else cout << "File error, when attempting to open the given text file." << endl;
 
 
+	//checking by going through the dictionary
 	if (dictionaryFile.is_open())
 	{
 		while (getline(dictionaryFile, singleWord))
-		{
 			if (words.find(singleWord) != ITEM_NOT_FOUND)
-			{
 				words.remove(singleWord);
-			}
-		}
 		dictionaryFile.close();
 	}
 	else cout << "File error, when attempting to open the given dictionary file." << endl;
 
-	cout << "SIZE: " << words.getAVLTreeSize();
-
-	ofstream fileWriter("errorFile.txt");
-	fileWriter << "Error File" << endl;
+	cout << "SIZE: " << words.getAVLTreeSize() << endl;
 
 	words.printTree();
+
+	words.traverse(writeErrorFile);
 
 	char c;
 	cin >> c;

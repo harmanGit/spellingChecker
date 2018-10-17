@@ -184,9 +184,9 @@ int AvlTree<Comparable>::height(AvlNode<Comparable> *t) const
  **************************************************************************************/
 
 template <class Comparable>
-void AvlTree<Comparable>::traverse(AvlNode<Comparable> * & t)
+void AvlTree<Comparable>::traverse(void f(Comparable&))
 {
-	traverse(t, root);
+	traverse(f, root);
 }
 
 template <class Comparable>
@@ -202,11 +202,25 @@ void AvlTree<Comparable>::remove(const Comparable & x)
 template <class Comparable>
 void AvlTree<Comparable>::remove(const Comparable & x, AvlNode<Comparable> * & t)
 {
-	if (find(x, t) != NULL)
+	/*AvlNode<Comparable> *temp = find(x, t);
+	if (temp->element == x || temp != NULL)
 	{
-		t->isDeleted = true;
 		avlTreeSize--;
+		t->isDeleted = true;
+		cout << "12412341234" << endl;
+	}*/
+	
+	if (t == NULL)
+		return;
+	if (t->element == x)
+	{
+		avlTreeSize--;
+		t->isDeleted = true;
 	}
+	else if (x < t->element)
+		remove(x, t->left);
+	else if (x > t->element)
+		remove(x, t->right);
 }
 
 /**
@@ -218,28 +232,27 @@ template <class Comparable>
 void AvlTree<Comparable>::insert(const Comparable & x, AvlNode<Comparable> * & t)
 {
 	if (t == NULL)
+	{
 		t = new AvlNode<Comparable>(x, NULL, NULL);
+		avlTreeSize++;
+	}
 	else if (x < t->element)
 	{
 		insert(x, t->left);
 		if (height(t->left) - height(t->right) == 2)
-		{
 			if (x < t->left->element)
 				rotateWithLeftChild(t);
 			else
 				doubleWithLeftChild(t);
-		}
 	}
 	else if (t->element < x)
 	{
 		insert(x, t->right);
 		if (height(t->right) - height(t->left) == 2)
-		{
 			if (t->right->element < x)
 				rotateWithRightChild(t);
 			else
 				doubleWithRightChild(t);
-		}
 	}
 	else
 		;  // Duplicate; do nothing
@@ -331,8 +344,11 @@ void AvlTree<Comparable>::traverse(void f(Comparable&), AvlNode<Comparable> * & 
 	if (t != nullptr)
 	{
 		traverse(f, t->left);
-		if (t->isDeleted == false)
+		if (t->isDeleted == false)//changed to true after parser fix commit
+		{
 			f(t->element);
+			//cout << "asdfasdfasdf" << endl;
+		}
 		traverse(f, t->right);
 	}
 }
