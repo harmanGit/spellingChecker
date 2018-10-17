@@ -179,17 +179,15 @@ int AvlTree<Comparable>::height(AvlNode<Comparable> *t) const
 	return t == NULL ? -1 : t->height;
 }
 
-template <class Comparable>
-void AvlTree<Comparable>::traverse(AvlNode<Comparable> * & t)
-{
-	traverse(f, root);
-}
-
 /**************************************************************************************
  ****** INCOMPLETE METHODS - finish or modify as needed
  **************************************************************************************/
 
-
+template <class Comparable>
+void AvlTree<Comparable>::traverse(AvlNode<Comparable> * & t)
+{
+	traverse(t, root);
+}
 
 template <class Comparable>
 void AvlTree<Comparable>::remove(const Comparable & x)
@@ -207,7 +205,7 @@ void AvlTree<Comparable>::remove(const Comparable & x, AvlNode<Comparable> * & t
 	if (find(x, t) != NULL)
 	{
 		t->isDeleted = true;
-		-avlTreeSize;
+		avlTreeSize--;
 	}
 }
 
@@ -333,14 +331,8 @@ void AvlTree<Comparable>::traverse(void f(Comparable&), AvlNode<Comparable> * & 
 	if (t != nullptr)
 	{
 		traverse(f, t->left);
-		if (t->isDeleted != false)
-		{
+		if (t->isDeleted == false)
 			f(t->element);
-			traverse(f, t->right);
-		}
+		traverse(f, t->right);
 	}
 }
-
-
-
-

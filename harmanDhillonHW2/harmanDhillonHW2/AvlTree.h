@@ -68,7 +68,7 @@ private:
 	void insert(const Comparable & x, AvlNode<Comparable> * & t);
 	void remove(const Comparable & x, AvlNode<Comparable> * & t);
 	void makeEmpty(AvlNode<Comparable> * & t);
-	void traverse(void f(Comparable&), AvlNode<Comparable> * & t)
+	void traverse(void f(Comparable&), AvlNode<Comparable> * & t);
 
 	// helper methods
 	AvlNode<Comparable> * clone(AvlNode<Comparable> *t) const;

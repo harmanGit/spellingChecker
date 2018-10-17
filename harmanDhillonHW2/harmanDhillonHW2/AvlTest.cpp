@@ -5,73 +5,99 @@
 #include <iomanip>
 #include <fstream>
 #include <string>
-#include <cctype>
 #include "AvlTree.h"
 using namespace std;
 
-const int ITEM_NOT_FOUND = 99999;
+const string ITEM_NOT_FOUND = "99999";
 
 int main()
 {
-	AvlTree<int> words(ITEM_NOT_FOUND);  // constructs an empty tree of ints
-										 // that returns 99999 when find fails
+	AvlTree<string> words(ITEM_NOT_FOUND);  // constructs an empty tree of ints that returns 99999 when find fails
 
+	string fileName;
+	string textFileName;
+	string dictionaryFileName;
 	string singleLine;
 	string singleWord;
 	char singleChar;
-	ifstream file;
-	file.open("baby.txt");
-	if (file.is_open())
+
+	cout << "Please enter the name for the file you want to spell check ---> " << endl;
+	cin >> fileName;
+
+	textFileName = fileName + ".txt";
+	dictionaryFileName = fileName +  ".dct";
+
+	cout << textFileName << " || " << dictionaryFileName << endl;
+
+	ifstream textFile;
+	ifstream dictionaryFile;
+	textFile.open(textFileName);
+	dictionaryFile.open(dictionaryFileName);
+	if (textFile.is_open())
 	{
-		while (getline(file, singleLine))
+		while (getline(textFile, singleLine))
 		{
-			for (int i = 0; i < singleLine.length(); i++)
+			for (int i = 0; i < singleLine.length(); ++i)
 			{
 				singleChar = tolower(singleLine[i]);
 				if (isalpha(singleChar))
-				{
 					singleWord += singleChar;
-				}
 				else
 				{
 					cout << singleWord << endl;
+					cout << "||";
 					//words.insert(singleWord);
 					singleWord = "";
 				}	
-			}
-		 		
+			}		
 		}
-		file.close();
+		textFile.close();
 	}
-	else cout << "File error, when attempting to open the given file.";
+	else cout << "File error, when attempting to open the given text file." << endl;
 
-	ofstream o("errorFile.txt");
 
-	o << "Hello, World\n" << std::endl;
+	//if (dictionaryFile.is_open())
+	//{
+	//	while (getline(dictionaryFile, singleWord))
+	//	{
+	//		if (words.find(singleWord) != ITEM_NOT_FOUND)
+	//		{
+	//			words.remove(singleWord);
+	//		}
+	//	}
+	//	dictionaryFile.close();
+	//}
+	//else cout << "File error, when attempting to open the given dictionary file." << endl;
 
+	//cout << "SIZE: " << words.getAVLTreeSize();
+
+	//ofstream fileWriter("errorFile.txt");
+	//fileWriter << "Error File" << endl;
+
+	//words.printTree();
 
 	char c;
 	cin >> c;
 
-	//words.insert(4);
-	//words.insert(6);
-	//words.insert(9);
-	//words.insert(12);
-	//words.insert(2);
+	/*
+	words.insert(4);
+	words.insert(6);
+	words.insert(9);
+	words.insert(12);
+	words.insert(2);
 
-	//if (words.find(9) != ITEM_NOT_FOUND)
-	//	cout << "Find was sucessful." << endl;
+	if (words.find(9) != ITEM_NOT_FOUND)
+		cout << "Find was sucessful." << endl;
 
-	//words.remove(9);
+	words.remove(9);
 
-	//cout << endl << endl;
+	cout << "number removed: " << words.getAVLTreeSize();
 
-	//words.printTree();
+	cout << endl << endl;
 
-	//cin.get();  // wait for enter key
+	words.printTree();
+
+	cin.get();  // wait for enter key
+	*/
 	return EXIT_SUCCESS;
 }
-
-
-
-

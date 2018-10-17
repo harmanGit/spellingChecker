@@ -1,3 +1,3 @@
 ﻿  AvlTest.cpp
-c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(28): warning C4018: '<': signed/unsigned mismatch
-  harmanDhillonHW2.vcxproj -> C:\Users\Katrina\Documents\GitHub\spellingChecker\harmanDhillonHW2\Debug\harmanDhillonHW2.exe
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(50): error C2146: syntax error: missing ';' before identifier 'singleWord'
