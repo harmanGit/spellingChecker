@@ -1,3 +1,0 @@
-C:/Users/Katrina/Documents/GitHub/spellingChecker/spellingChecker/cmake-build-debug/CMakeFiles/spellingChecker.dir
-C:/Users/Katrina/Documents/GitHub/spellingChecker/spellingChecker/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Katrina/Documents/GitHub/spellingChecker/spellingChecker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
