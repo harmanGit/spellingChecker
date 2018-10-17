@@ -16,11 +16,11 @@ int main()
 	AvlTree<int> words(ITEM_NOT_FOUND);  // constructs an empty tree of ints
 										 // that returns 99999 when find fails
 
-
 	string singleLine;
 	string singleWord;
 	char singleChar;
-	ifstream file("baby.txt");
+	ifstream file;
+	file.open("baby.txt");
 	if (file.is_open())
 	{
 		while (getline(file, singleLine))

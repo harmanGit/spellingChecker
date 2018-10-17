@@ -123,6 +123,15 @@
   <ItemGroup>
     <ClInclude Include="AvlTree.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\ALLADIN.TXT" />
+    <Text Include="..\baby.txt" />
+    <Text Include="..\BILLCLNT.TXT" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\baby.dct" />
+    <None Include="..\BIG.DCT" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
