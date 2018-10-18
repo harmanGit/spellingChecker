@@ -202,25 +202,12 @@ void AvlTree<Comparable>::remove(const Comparable & x)
 template <class Comparable>
 void AvlTree<Comparable>::remove(const Comparable & x, AvlNode<Comparable> * & t)
 {
-	/*AvlNode<Comparable> *temp = find(x, t);
-	if (temp->element == x || temp != NULL)
+	AvlNode<Comparable> *temp = find(x, t);
+	if (temp != NULL)
 	{
 		avlTreeSize--;
-		t->isDeleted = true;
-		cout << "12412341234" << endl;
-	}*/
-	
-	if (t == NULL)
-		return;
-	if (t->element == x)
-	{
-		avlTreeSize--;
-		t->isDeleted = true;
+		temp->isDeleted = true;
 	}
-	else if (x < t->element)
-		remove(x, t->left);
-	else if (x > t->element)
-		remove(x, t->right);
 }
 
 /**
@@ -344,11 +331,8 @@ void AvlTree<Comparable>::traverse(void f(Comparable&), AvlNode<Comparable> * & 
 	if (t != nullptr)
 	{
 		traverse(f, t->left);
-		if (t->isDeleted == false)//changed to true after parser fix commit
-		{
+		if (t->isDeleted == false)//only looking at the incorrectly spelled 
 			f(t->element);
-			//cout << "asdfasdfasdf" << endl;
-		}
 		traverse(f, t->right);
 	}
 }
