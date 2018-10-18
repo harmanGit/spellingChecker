@@ -1,5 +1,4 @@
 #include <iostream>
-#include "AvlTree.h"
 using namespace std;
 
 /**
@@ -203,25 +202,12 @@ void AvlTree<Comparable>::remove(const Comparable & x)
 template <class Comparable>
 void AvlTree<Comparable>::remove(const Comparable & x, AvlNode<Comparable> * & t)
 {
-	/*AvlNode<Comparable> *temp = find(x, t);
-	if (temp->element == x || temp != NULL)
+	AvlNode<Comparable> *temp = find(x, t);
+	if (temp != NULL)
 	{
 		avlTreeSize--;
-		t->isDeleted = true;
-		cout << "12412341234" << endl;
-	}*/
-	
-	if (t == NULL)
-		return;
-	if (t->element == x)
-	{
-		avlTreeSize--;
-		t->isDeleted = true;
+		temp->isDeleted = true;
 	}
-	else if (x < t->element)
-		remove(x, t->left);
-	else if (x > t->element)
-		remove(x, t->right);
 }
 
 /**
@@ -280,13 +266,13 @@ int AvlTree<Comparable>::max(int lhs, int rhs) const
 template <class Comparable>
 void AvlTree<Comparable>::rotateWithLeftChild(AvlNode<Comparable> * & k2)
 {
-		AvlNode<Comparable> *k1 = k2->left;
-		k2->left = k1->right;
-		k1->right = k2;
-		k2->height = max(height(k2->left), height(k2->right)) + 1;
-		k1->height = max(height(k1->left), k2->height) + 1;
-		k2 = k1;
-	
+	AvlNode<Comparable> *k1 = k2->left;
+	k2->left = k1->right;
+	k1->right = k2;
+	k2->height = max(height(k2->left), height(k2->right)) + 1;
+	k1->height = max(height(k1->left), k2->height) + 1;
+	k2 = k1;
+
 }
 
 /**
@@ -298,13 +284,13 @@ template <class Comparable>
 void AvlTree<Comparable>::rotateWithRightChild(AvlNode<Comparable> * & k1)
 {
 
-		AvlNode<Comparable> *k2 = k1->right;
-		k1->right = k2->left;
-		k2->left = k1;
-		k1->height = max(height(k1->right), height(k1->left)) + 1;
-		k2->height = max(height(k2->right), k1->height) + 1;
-		k1 = k2;
-	
+	AvlNode<Comparable> *k2 = k1->right;
+	k1->right = k2->left;
+	k2->left = k1;
+	k1->height = max(height(k1->right), height(k1->left)) + 1;
+	k2->height = max(height(k2->right), k1->height) + 1;
+	k1 = k2;
+
 }
 
 /**
@@ -345,11 +331,8 @@ void AvlTree<Comparable>::traverse(void f(Comparable&), AvlNode<Comparable> * & 
 	if (t != nullptr)
 	{
 		traverse(f, t->left);
-		if (t->isDeleted == false)//changed to true after parser fix commit
-		{
+		if (t->isDeleted == false)//only looking at the incorrectly spelled 
 			f(t->element);
-			//cout << "asdfasdfasdf" << endl;
-		}
 		traverse(f, t->right);
 	}
 }
