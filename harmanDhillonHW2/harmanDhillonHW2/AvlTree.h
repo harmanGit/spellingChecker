@@ -52,7 +52,7 @@ public:
 	void remove(const Comparable & x);
 	void traverse(void f(Comparable&));
 	void makeEmpty();
-	int getAVLTreeSize();
+	int getAVLTreeSize() const;
 
 private:
 	// data members
@@ -79,6 +79,8 @@ private:
 	void rotateWithRightChild(AvlNode<Comparable> * & k1);
 	void doubleWithLeftChild(AvlNode<Comparable> * & k3);
 	void doubleWithRightChild(AvlNode<Comparable> * & k1);
+
+	int getAVLTreeSize();
 
 };
 

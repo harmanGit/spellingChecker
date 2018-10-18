@@ -1,3 +1,105 @@
 ﻿  AvlTest.cpp
-c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(46): warning C4018: '<': signed/unsigned mismatch
-  harmanDhillonHW2.vcxproj -> C:\Users\Katrina\Documents\GitHub\spellingChecker\harmanDhillonHW2\Debug\harmanDhillonHW2.exe
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(136): error C2678: binary '<': no operator found which takes a left-hand operand of type 'const Comparable' (or there is no acceptable conversion)
+          with
+          [
+              Comparable=word
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(319): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(312): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(136): note: while trying to match the argument list '(const Comparable, Comparable)'
+          with
+          [
+              Comparable=word
+          ]
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(134): note: while compiling class template member function 'AvlNode<Comparable> *AvlTree<Comparable>::find(const Comparable &,AvlNode<Comparable> *) const'
+          with
+          [
+              Comparable=word
+          ]
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(53): note: see reference to function template instantiation 'AvlNode<Comparable> *AvlTree<Comparable>::find(const Comparable &,AvlNode<Comparable> *) const' being compiled
+          with
+          [
+              Comparable=word
+          ]
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(13): note: while compiling class template member function 'AvlTree<word>::AvlTree(const Comparable &)'
+          with
+          [
+              Comparable=word
+          ]
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(42): note: see reference to function template instantiation 'AvlTree<word>::AvlTree(const Comparable &)' being compiled
+          with
+          [
+              Comparable=word
+          ]
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(42): note: see reference to class template instantiation 'AvlTree<word>' being compiled
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(138): error C2678: binary '<': no operator found which takes a left-hand operand of type 'Comparable' (or there is no acceptable conversion)
+          with
+          [
+              Comparable=word
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(319): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(312): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(138): note: while trying to match the argument list '(Comparable, const Comparable)'
+          with
+          [
+              Comparable=word
+          ]
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(227): error C2678: binary '<': no operator found which takes a left-hand operand of type 'const Comparable' (or there is no acceptable conversion)
+          with
+          [
+              Comparable=word
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(319): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(312): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(227): note: while trying to match the argument list '(const Comparable, Comparable)'
+          with
+          [
+              Comparable=word
+          ]
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(221): note: while compiling class template member function 'void AvlTree<word>::insert(const Comparable &,AvlNode<Comparable> *&)'
+          with
+          [
+              Comparable=word
+          ]
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(43): note: see reference to function template instantiation 'void AvlTree<word>::insert(const Comparable &,AvlNode<Comparable> *&)' being compiled
+          with
+          [
+              Comparable=word
+          ]
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(231): error C2678: binary '<': no operator found which takes a left-hand operand of type 'const Comparable' (or there is no acceptable conversion)
+          with
+          [
+              Comparable=word
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(319): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(312): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(231): note: while trying to match the argument list '(const Comparable, Comparable)'
+          with
+          [
+              Comparable=word
+          ]
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(236): error C2678: binary '<': no operator found which takes a left-hand operand of type 'Comparable' (or there is no acceptable conversion)
+          with
+          [
+              Comparable=word
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(319): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(312): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(236): note: while trying to match the argument list '(Comparable, const Comparable)'
+          with
+          [
+              Comparable=word
+          ]
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(240): error C2678: binary '<': no operator found which takes a left-hand operand of type 'Comparable' (or there is no acceptable conversion)
+          with
+          [
+              Comparable=word
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(319): note: could be 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(312): note: or       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltree.cpp(240): note: while trying to match the argument list '(Comparable, const Comparable)'
+          with
+          [
+              Comparable=word
+          ]
