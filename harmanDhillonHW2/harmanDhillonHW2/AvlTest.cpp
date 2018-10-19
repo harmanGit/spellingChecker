@@ -1,5 +1,4 @@
-// spellcheck.cpp 
-// This doesn't do any spell checking yet; it's just a simple test of the AVL-based Table ADT.
+//Harman Dhillon
 
 #include <iostream>
 #include <iomanip>
@@ -11,6 +10,8 @@
 using namespace std;
 
 const string ITEM_NOT_FOUND = "99999";
+ofstream fileWriter;
+int totalMisspelledWords;
 
 class word
 {
@@ -19,8 +20,9 @@ private:
 	queue<int> line;
 	int numberOfOccurrences;
 public:
-	word() { aWord = ""; numberOfOccurrences = 0; queue<int> empty; swap(line, empty);};
-
+	//default constructor
+	word() { aWord = ""; numberOfOccurrences = 0; queue<int> empty; swap(line, empty);}
+	//explict constructor
 	word(string w, int l, int n)
 	{
 		aWord = w;
@@ -29,37 +31,52 @@ public:
 	}
 	void setWord(string newWord) { aWord = newWord; }
 	void addLine(int lineValue) { line.push(lineValue); }
-	void incrementNumberOfOccurrences() { ++numberOfOccurrences; }
+	void incrementNumberOfOccurrences() {++numberOfOccurrences; }
+	void addToTotalErrors() { totalMisspelledWords += numberOfOccurrences; }
 
 	string getWord() { return aWord; }
 	string getLine() 
 	{
-		string returnString = "";
-		while (!line.empty())
+		string returnString = "[";
+		queue<int> tempQ = line;
+		while (!tempQ.empty())
 		{
-			returnString += ", " + to_string(line.front());
-			line.pop();
+			returnString += to_string(tempQ.front());
+			if (tempQ.size() != 1)//formatting
+				returnString += ", ";
+			tempQ.pop();
 		}
-		return returnString;
+		return returnString + "]";
 	}
-
 	int getNumberOfOccurrences() { return numberOfOccurrences; }
 	string getPageNumber()
 	{
-		if (line.size() % 66 == 0)
-			return to_string(66);
-		return to_string(line.size() / 66 + 1);
+		queue<int> tempQ = line;
+		int tempInt = 0;
+		string returnString = "[";
+		while(!tempQ.empty())
+		{
+			tempInt = tempQ.front();
+			returnString += to_string(tempInt / 66 + 1);
+
+			if (tempQ.size() != 1)//formatting
+				returnString += ", ";
+			tempQ.pop();
+		}
+		return returnString + "]";
+		
 	}
 };
 
 map<string, word> allWords;
-ofstream fileWriter;
+
 void writeErrorFile(string &str)
 {
 	fileWriter << "Incorrect Spelled Word: " << str << endl;
-	fileWriter << "Number Of Occurrences: " << allWords[str].getNumberOfOccurrences() << endl;
-	fileWriter << "Page Numbers: " << allWords[str].getPageNumber() << endl;
-	fileWriter << "Lines at error found: " << allWords[str].getLine() << endl;//print list
+	fileWriter << "		Number Of Occurrences: " << allWords[str].getNumberOfOccurrences() << endl;
+	fileWriter << "		Page Numbers: " << allWords[str].getPageNumber() << endl;
+	fileWriter << "		Lines at error found: " << allWords[str].getLine() << endl;//print list
+	allWords[str].addToTotalErrors();//adding up total number of errors
 
 }
 
@@ -72,6 +89,7 @@ string toLower(string s)
 	}
 	return returnString;
 }
+
 
 int main()
 {
@@ -135,7 +153,7 @@ int main()
 	else cout << "File error, when attempting to open the given text file." << endl;
 
 
-	//checking by going through the dictionary
+	//checking spelling by going through the dictionary
 	if (dictionaryFile.is_open())
 	{
 		while (getline(dictionaryFile, singleWord))
@@ -145,12 +163,13 @@ int main()
 	}
 	else cout << "File error, when attempting to open the given dictionary file." << endl;
 
-	cout << "SIZE: " << words.getAVLTreeSize() << endl;
-
 	//words.printTree();
 
 	words.traverse(writeErrorFile);
-
+	fileWriter << "--------------------------------------------" << endl;
+	fileWriter << "Total Unique Incorrect Words: " << words.getAVLTreeSize() << endl;
+	fileWriter << "Total Incorrect Words: " << totalMisspelledWords << endl;
+    cout << "Error file created!" << endl;
 	char c;
 	cin >> c;
 
