@@ -10,14 +10,17 @@
 using namespace std;
 
 const string ITEM_NOT_FOUND = "99999";
-ofstream fileWriter;
-int totalMisspelledWords;
+ofstream fileWriter;//writes to file
+int totalMisspelledWords;//counter for total number of misspellings
 
+
+//class represents a word, including data like line it existed on
+//and how many times it appeared
 class word
 {
 private:
 	string aWord;
-	queue<int> line;
+	queue<int> line;//word can be on multi lines
 	int numberOfOccurrences;
 public:
 	//default constructor
@@ -32,13 +35,15 @@ public:
 	void setWord(string newWord) { aWord = newWord; }
 	void addLine(int lineValue) { line.push(lineValue); }
 	void incrementNumberOfOccurrences() {++numberOfOccurrences; }
+	//adding occurrences of the word to the total
 	void addToTotalErrors() { totalMisspelledWords += numberOfOccurrences; }
 
 	string getWord() { return aWord; }
+	//returns a string representing all lines the word was found in
 	string getLine() 
 	{
 		string returnString = "[";
-		queue<int> tempQ = line;
+		queue<int> tempQ = line;//insuring orginal line isnt deleted
 		while (!tempQ.empty())
 		{
 			returnString += to_string(tempQ.front());
@@ -49,6 +54,7 @@ public:
 		return returnString + "]";
 	}
 	int getNumberOfOccurrences() { return numberOfOccurrences; }
+	//returns a string representing all pages the word was found in
 	string getPageNumber()
 	{
 		queue<int> tempQ = line;
@@ -69,18 +75,16 @@ public:
 };
 
 map<string, word> allWords;
-
 void writeErrorFile(string &str)
 {
 	fileWriter << "Incorrect Spelled Word: " << str << endl;
-	fileWriter << "		Number Of Occurrences: " << allWords[str].getNumberOfOccurrences() << endl;
-	fileWriter << "		Page Numbers: " << allWords[str].getPageNumber() << endl;
-	fileWriter << "		Lines at error found: " << allWords[str].getLine() << endl;//print list
+	fileWriter << "	Number Of Occurrences: " << allWords[str].getNumberOfOccurrences() << endl;
+	fileWriter << "	Page Numbers: " << allWords[str].getPageNumber() << endl;
+	fileWriter << "	Lines At Mistakes Found: " << allWords[str].getLine() << endl;//print list
 	allWords[str].addToTotalErrors();//adding up total number of errors
 
 }
-
-string toLower(string s)
+string toLower(string s)//lowercases strings
 {
 	string returnString = "";
 	for (int i = 0; i < s.length(); i++)
@@ -90,10 +94,10 @@ string toLower(string s)
 	return returnString;
 }
 
-
 int main()
 {
-	AvlTree<string> words(ITEM_NOT_FOUND);  // constructs an empty tree of ints that returns 99999 when find fails
+	// constructs an empty tree of ints that returns 99999 when find fails
+	AvlTree<string> words(ITEM_NOT_FOUND);
 	fileWriter.open("errorFile.txt");
 	string fileName;
 	string textFileName;
@@ -119,7 +123,7 @@ int main()
 		lineCount = 0;
 		while (getline(textFile, singleLine))//going line by line in the text file
 		{
-			++lineCount;
+			++lineCount;//incrementing line counter
 			singleLine += "#";//used to detect new lines
 			for (int i = 0; i < singleLine.length(); ++i)//going char by char in the single line
 			{
@@ -132,7 +136,7 @@ int main()
 
 					map<string, word>::iterator itr;
 					itr = allWords.find(singleWord);
-					if (itr != allWords.end())
+					if (itr != allWords.end())//checks if the word exists in the map
 					{
 						itr->second.incrementNumberOfOccurrences();//existing word, count++
 						itr->second.addLine(lineCount);//adding a new line to the existing word object
@@ -140,8 +144,8 @@ int main()
 					else
 					{
 						word wordData(singleWord, lineCount, 0);
-						wordData.incrementNumberOfOccurrences();
-						allWords[singleWord] = wordData;//new word
+						wordData.incrementNumberOfOccurrences();//occurrences set to 0
+						allWords[singleWord] = wordData;//new word added to the map
 					}
 						singleWord = "";//resetting the word
 
@@ -150,26 +154,25 @@ int main()
 		}
 		textFile.close();
 	}
-	else cout << "File error, when attempting to open the given text file." << endl;
-
+	else cout << "File Error, when attempting to open the given text file." << endl;
 
 	//checking spelling by going through the dictionary
 	if (dictionaryFile.is_open())
 	{
 		while (getline(dictionaryFile, singleWord))
 			if (words.find(toLower(singleWord)) != ITEM_NOT_FOUND)
-				words.remove(toLower(singleWord));
+				words.remove(toLower(singleWord));//removing words that are spelled wrong
 		dictionaryFile.close();
 	}
-	else cout << "File error, when attempting to open the given dictionary file." << endl;
+	else cout << "File Error, when attempting to open the given dictionary file." << endl;
 
 	//words.printTree();
 
 	words.traverse(writeErrorFile);
-	fileWriter << "--------------------------------------------" << endl;
+	fileWriter << "----------------------------------" << endl;
 	fileWriter << "Total Unique Incorrect Words: " << words.getAVLTreeSize() << endl;
 	fileWriter << "Total Incorrect Words: " << totalMisspelledWords << endl;
-    cout << "Error file created!" << endl;
+    cout << "File created containing the misspelled words and other data!" << endl;
 	char c;
 	cin >> c;
 

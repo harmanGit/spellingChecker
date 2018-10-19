@@ -1,4 +1,4 @@
 ﻿  AvlTest.cpp
-c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(87): warning C4018: '<': signed/unsigned mismatch
-c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(128): warning C4018: '<': signed/unsigned mismatch
   harmanDhillonHW2.vcxproj -> C:\Users\Katrina\Documents\GitHub\spellingChecker\harmanDhillonHW2\Debug\harmanDhillonHW2.exe
