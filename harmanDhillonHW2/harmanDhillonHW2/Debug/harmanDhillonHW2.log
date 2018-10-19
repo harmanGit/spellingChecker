@@ -1,4 +1,4 @@
 ﻿  AvlTest.cpp
-c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(46): warning C4018: '<': signed/unsigned mismatch
-  LINK : C:\Users\Katrina\Documents\GitHub\spellingChecker\harmanDhillonHW2\Debug\harmanDhillonHW2.exe not found or not built by the last incremental link; performing full link
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\katrina\documents\github\spellingchecker\harmandhillonhw2\harmandhillonhw2\avltest.cpp(106): warning C4018: '<': signed/unsigned mismatch
   harmanDhillonHW2.vcxproj -> C:\Users\Katrina\Documents\GitHub\spellingChecker\harmanDhillonHW2\Debug\harmanDhillonHW2.exe

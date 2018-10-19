@@ -1,6 +1,1644 @@
-aat
-babee
-quillt
-rachmaninoff
-underr
-walruss
+Incorrect Spelled Word: accomplished
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 283
+Incorrect Spelled Word: ached
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 464
+Incorrect Spelled Word: adding
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 187, 205
+Incorrect Spelled Word: african
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 12, 373, 419, 458
+Incorrect Spelled Word: after
+Number Of Occurrences: 7
+Page Numbers: 1
+Lines at error found: , 149, 213, 252, 254, 366, 445, 473
+Incorrect Spelled Word: afterwards
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 73, 402
+Incorrect Spelled Word: ailments
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 432
+Incorrect Spelled Word: aladdin
+Number Of Occurrences: 100
+Page Numbers: 2
+Lines at error found: , 1, 4, 8, 10, 14, 17, 19, 21, 23, 25, 29, 33, 42, 48, 57, 59, 62, 68, 72, 75, 80, 88, 92, 95, 97, 98, 99, 102, 106, 108, 112, 117, 138, 145, 149, 154, 156, 160, 164, 165, 168, 192, 194, 199, 204, 205, 209, 215, 217, 218, 223, 228, 240, 241, 247, 249, 253, 256, 261, 267, 270, 274, 279, 280, 285, 288, 293, 295, 304, 315, 320, 325, 328, 330, 331, 333, 337, 347, 350, 363, 365, 367, 373, 379, 387, 392, 396, 404, 405, 412, 414, 416, 427, 446, 449, 464, 467, 469, 473, 479
+Incorrect Spelled Word: alas
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 86, 371
+Incorrect Spelled Word: amazed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 334
+Incorrect Spelled Word: amazement
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 391
+Incorrect Spelled Word: appeared
+Number Of Occurrences: 6
+Page Numbers: 1
+Lines at error found: , 50, 91, 155, 312, 346, 451
+Incorrect Spelled Word: appointed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 169
+Incorrect Spelled Word: armed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 322
+Incorrect Spelled Word: armies
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 275
+Incorrect Spelled Word: arms
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 214, 217, 404
+Incorrect Spelled Word: arrayed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 388
+Incorrect Spelled Word: arrived
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 60, 208
+Incorrect Spelled Word: arts
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 280
+Incorrect Spelled Word: ashes
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 457
+Incorrect Spelled Word: asked
+Number Of Occurrences: 12
+Page Numbers: 1
+Lines at error found: , 9, 21, 86, 91, 138, 151, 196, 287, 317, 347, 397, 438
+Incorrect Spelled Word: asking
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 342
+Incorrect Spelled Word: astonishment
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 318
+Incorrect Spelled Word: awakened
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 355
+Incorrect Spelled Word: bandaged
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 325
+Incorrect Spelled Word: basins
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 201, 212
+Incorrect Spelled Word: battles
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 276
+Incorrect Spelled Word: bearing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 274
+Incorrect Spelled Word: beautifully
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 221
+Incorrect Spelled Word: begged
+Number Of Occurrences: 7
+Page Numbers: 1
+Lines at error found: , 33, 98, 143, 331, 337, 436, 447
+Incorrect Spelled Word: beguiled
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 34
+Incorrect Spelled Word: beheaded
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 377
+Incorrect Spelled Word: believed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 319
+Incorrect Spelled Word: besides
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 221
+Incorrect Spelled Word: better
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 437
+Incorrect Spelled Word: bidding
+Number Of Occurrences: 5
+Page Numbers: 1
+Lines at error found: , 19, 57, 185, 218, 424
+Incorrect Spelled Word: birds
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 355
+Incorrect Spelled Word: blessing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 428
+Incorrect Spelled Word: boldly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 92
+Incorrect Spelled Word: boldness
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 250
+Incorrect Spelled Word: books
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 69
+Incorrect Spelled Word: bottles
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 95
+Incorrect Spelled Word: bowed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 204
+Incorrect Spelled Word: boys
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 6
+Incorrect Spelled Word: breathless
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 153
+Incorrect Spelled Word: called
+Number Of Occurrences: 5
+Page Numbers: 1
+Lines at error found: , 4, 218, 328, 365, 422
+Incorrect Spelled Word: cared
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 309
+Incorrect Spelled Word: carefully
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 241, 387
+Incorrect Spelled Word: careless
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 5
+Incorrect Spelled Word: carried
+Number Of Occurrences: 8
+Page Numbers: 1
+Lines at error found: , 179, 202, 212, 238, 239, 312, 323, 360
+Incorrect Spelled Word: carries
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 374
+Incorrect Spelled Word: carrying
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 127
+Incorrect Spelled Word: chains
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 320
+Incorrect Spelled Word: changed
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 113, 380, 424
+Incorrect Spelled Word: charmed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 248
+Incorrect Spelled Word: cheers
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 244
+Incorrect Spelled Word: clapped
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 423
+Incorrect Spelled Word: clasped
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 76
+Incorrect Spelled Word: clothes
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 25, 380, 424
+Incorrect Spelled Word: coloured
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 425
+Incorrect Spelled Word: comes
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 96, 176
+Incorrect Spelled Word: comforted
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 379
+Incorrect Spelled Word: coming
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 14, 433
+Incorrect Spelled Word: commanded
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 451
+Incorrect Spelled Word: concerned
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 336
+Incorrect Spelled Word: confessed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 185
+Incorrect Spelled Word: consented
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 146, 437
+Incorrect Spelled Word: containing
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 94, 161
+Incorrect Spelled Word: contains
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 56
+Incorrect Spelled Word: cornice
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 303, 369
+Incorrect Spelled Word: counselled
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 197
+Incorrect Spelled Word: crossed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 214
+Incorrect Spelled Word: crowded
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 211
+Incorrect Spelled Word: crying
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 75, 297, 309
+Incorrect Spelled Word: cups
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 94
+Incorrect Spelled Word: curing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 431
+Incorrect Spelled Word: cymbals
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 243
+Incorrect Spelled Word: danced
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 254
+Incorrect Spelled Word: dared
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 362
+Incorrect Spelled Word: days
+Number Of Occurrences: 5
+Page Numbers: 1
+Lines at error found: , 75, 295, 337, 342, 416
+Incorrect Spelled Word: dearly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 187
+Incorrect Spelled Word: deceived
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 471
+Incorrect Spelled Word: deepest
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 293
+Incorrect Spelled Word: deeply
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 114, 178, 335
+Incorrect Spelled Word: demanded
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 335
+Incorrect Spelled Word: desired
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 433
+Incorrect Spelled Word: destroyed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 459
+Incorrect Spelled Word: determined
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 292
+Incorrect Spelled Word: devils
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 99
+Incorrect Spelled Word: diamonds
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 234, 258, 389
+Incorrect Spelled Word: dinner
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 97
+Incorrect Spelled Word: disappeared
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 462
+Incorrect Spelled Word: disclosing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 41
+Incorrect Spelled Word: discovered
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 280
+Incorrect Spelled Word: disguised
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 459
+Incorrect Spelled Word: displeased
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 250
+Incorrect Spelled Word: divided
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 31, 36
+Incorrect Spelled Word: does
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 457
+Incorrect Spelled Word: doing
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 76, 345
+Incorrect Spelled Word: drained
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 403
+Incorrect Spelled Word: dregs
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 403
+Incorrect Spelled Word: dressed
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 203, 211, 221, 241
+Incorrect Spelled Word: dressing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 363
+Incorrect Spelled Word: drinking
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 399
+Incorrect Spelled Word: earlier
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 359
+Incorrect Spelled Word: easily
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 50
+Incorrect Spelled Word: elapsed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 150
+Incorrect Spelled Word: embraced
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 226, 271
+Incorrect Spelled Word: embroidered
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 219
+Incorrect Spelled Word: emeralds
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 258
+Incorrect Spelled Word: enchanted
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 119
+Incorrect Spelled Word: enchantment
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 272, 319
+Incorrect Spelled Word: entered
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 122, 213, 422
+Incorrect Spelled Word: entering
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 257
+Incorrect Spelled Word: escaped
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 281
+Incorrect Spelled Word: etext
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 1, 479
+Incorrect Spelled Word: ever
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 196, 390
+Incorrect Spelled Word: exactly
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 47, 183
+Incorrect Spelled Word: executioner
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 324, 324, 328
+Incorrect Spelled Word: eyes
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 82, 316, 325, 411
+Incorrect Spelled Word: failed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 338
+Incorrect Spelled Word: fainted
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 83, 92
+Incorrect Spelled Word: faithfully
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 239
+Incorrect Spelled Word: fearlessly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 80
+Incorrect Spelled Word: fears
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 48
+Incorrect Spelled Word: feasting
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 190
+Incorrect Spelled Word: fetched
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 118, 170, 266, 465
+Incorrect Spelled Word: finest
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 230
+Incorrect Spelled Word: finished
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 238, 269, 271
+Incorrect Spelled Word: finishing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 262
+Incorrect Spelled Word: followed
+Number Of Occurrences: 5
+Page Numbers: 1
+Lines at error found: , 210, 242, 248, 298, 322
+Incorrect Spelled Word: following
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 183
+Incorrect Spelled Word: forced
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 321, 327, 361
+Incorrect Spelled Word: freely
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 132
+Incorrect Spelled Word: frightened
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 114, 167
+Incorrect Spelled Word: fruits
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 85, 119
+Incorrect Spelled Word: gaily
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 388
+Incorrect Spelled Word: gardens
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 29
+Incorrect Spelled Word: gathered
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 59, 85, 428
+Incorrect Spelled Word: going
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 150, 151, 429
+Incorrect Spelled Word: granted
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 145, 190, 339
+Incorrect Spelled Word: grasped
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 48
+Incorrect Spelled Word: greatest
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 289
+Incorrect Spelled Word: grieved
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 6
+Incorrect Spelled Word: grooms
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 235
+Incorrect Spelled Word: halls
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 52, 54
+Incorrect Spelled Word: handing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 398
+Incorrect Spelled Word: hands
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 76, 428, 466
+Incorrect Spelled Word: hanging
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 449
+Incorrect Spelled Word: happened
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 177, 183, 411, 414
+Incorrect Spelled Word: harshly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 362
+Incorrect Spelled Word: has
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 157, 177, 369
+Incorrect Spelled Word: hastened
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 412
+Incorrect Spelled Word: having
+Number Of Occurrences: 6
+Page Numbers: 1
+Lines at error found: , 20, 60, 233, 251, 291, 381
+Incorrect Spelled Word: heads
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 212
+Incorrect Spelled Word: hearing
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 116, 303
+Incorrect Spelled Word: hearts
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 274
+Incorrect Spelled Word: hers
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 425
+Incorrect Spelled Word: hesitated
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 131, 215
+Incorrect Spelled Word: higher
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 90
+Incorrect Spelled Word: hinting
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 272
+Incorrect Spelled Word: holy
+Number Of Occurrences: 5
+Page Numbers: 1
+Lines at error found: , 427, 431, 459, 465, 469
+Incorrect Spelled Word: honour
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 246, 282
+Incorrect Spelled Word: hoped
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 144
+Incorrect Spelled Word: horses
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 235
+Incorrect Spelled Word: humour
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 447
+Incorrect Spelled Word: hunting
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 295, 305, 370, 446
+Incorrect Spelled Word: ignorance
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 287
+Incorrect Spelled Word: immediately
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 78
+Incorrect Spelled Word: inclined
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 196
+Incorrect Spelled Word: instantly
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 53, 91
+Incorrect Spelled Word: intending
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 72, 227
+Incorrect Spelled Word: invited
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 256, 394
+Incorrect Spelled Word: its
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 65, 100, 232, 306
+Incorrect Spelled Word: jeering
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 298
+Incorrect Spelled Word: jeers
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 308
+Incorrect Spelled Word: jewelers
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 263
+Incorrect Spelled Word: jewels
+Number Of Occurrences: 7
+Page Numbers: 1
+Lines at error found: , 120, 139, 201, 211, 265, 268, 270
+Incorrect Spelled Word: journeyed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 32
+Incorrect Spelled Word: jumped
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 174
+Incorrect Spelled Word: killed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 469
+Incorrect Spelled Word: kindly
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 45, 138
+Incorrect Spelled Word: kings
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 475
+Incorrect Spelled Word: kissed
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 12, 18, 367
+Incorrect Spelled Word: kneeling
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 130, 213
+Incorrect Spelled Word: knocked
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 43
+Incorrect Spelled Word: knowest
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 156
+Incorrect Spelled Word: knowing
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 267, 305
+Incorrect Spelled Word: lamenting
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 75
+Incorrect Spelled Word: lamps
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 296, 297, 302, 309
+Incorrect Spelled Word: lastly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 222
+Incorrect Spelled Word: lattices
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 233
+Incorrect Spelled Word: laughed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 343
+Incorrect Spelled Word: laughing
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 116, 300, 301
+Incorrect Spelled Word: laughingly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 306
+Incorrect Spelled Word: laying
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 240
+Incorrect Spelled Word: leading
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 52, 384
+Incorrect Spelled Word: learning
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 23
+Incorrect Spelled Word: leaving
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 164, 475
+Incorrect Spelled Word: lies
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 46
+Incorrect Spelled Word: lifeless
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 403
+Incorrect Spelled Word: lifted
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 111
+Incorrect Spelled Word: lighted
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 55
+Incorrect Spelled Word: lighter
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 355
+Incorrect Spelled Word: likeness
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 13
+Incorrect Spelled Word: lips
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 402
+Incorrect Spelled Word: listened
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 387
+Incorrect Spelled Word: lived
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 4, 104, 276, 473
+Incorrect Spelled Word: living
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 198, 282
+Incorrect Spelled Word: lonely
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 310, 313
+Incorrect Spelled Word: longer
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 216
+Incorrect Spelled Word: looked
+Number Of Occurrences: 6
+Page Numbers: 1
+Lines at error found: , 112, 315, 317, 329, 363, 365
+Incorrect Spelled Word: lords
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 122
+Incorrect Spelled Word: loved
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 114, 188, 322
+Incorrect Spelled Word: lovers
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 366
+Incorrect Spelled Word: magical
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 40
+Incorrect Spelled Word: massy
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 233
+Incorrect Spelled Word: master
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 159, 455
+Incorrect Spelled Word: matter
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 252, 431
+Incorrect Spelled Word: means
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 283, 461
+Incorrect Spelled Word: meats
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 94
+Incorrect Spelled Word: miserable
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 168
+Incorrect Spelled Word: miserably
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 281
+Incorrect Spelled Word: misfortunes
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 356
+Incorrect Spelled Word: moments
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 208
+Incorrect Spelled Word: months
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 143, 147, 149, 192
+Incorrect Spelled Word: morning
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 173, 184, 315, 359
+Incorrect Spelled Word: mountains
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 33, 35
+Incorrect Spelled Word: mounted
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 223
+Incorrect Spelled Word: mourning
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 410
+Incorrect Spelled Word: murdered
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 425, 460
+Incorrect Spelled Word: musicians
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 243
+Incorrect Spelled Word: mustapha
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 10, 19
+Incorrect Spelled Word: names
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 49
+Incorrect Spelled Word: nearly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 149
+Incorrect Spelled Word: newly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 15
+Incorrect Spelled Word: obeyed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 251
+Incorrect Spelled Word: offered
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 24, 434
+Incorrect Spelled Word: offering
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 302
+Incorrect Spelled Word: ones
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 202, 302
+Incorrect Spelled Word: onwards
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 32
+Incorrect Spelled Word: opened
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 81, 364, 404
+Incorrect Spelled Word: ordered
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 324, 330
+Incorrect Spelled Word: orders
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 239
+Incorrect Spelled Word: others
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 264
+Incorrect Spelled Word: outside
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 30, 82, 163
+Incorrect Spelled Word: overjoyed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 27
+Incorrect Spelled Word: overwhelmed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 154
+Incorrect Spelled Word: owned
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 187
+Incorrect Spelled Word: owning
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 356
+Incorrect Spelled Word: pardoned
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 330
+Incorrect Spelled Word: passed
+Number Of Occurrences: 5
+Page Numbers: 1
+Lines at error found: , 84, 167, 180, 223, 285
+Incorrect Spelled Word: patiently
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 149
+Incorrect Spelled Word: peeped
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 111
+Incorrect Spelled Word: perishing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 280
+Incorrect Spelled Word: picked
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 71
+Incorrect Spelled Word: pieces
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 222
+Incorrect Spelled Word: pierced
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 467
+Incorrect Spelled Word: piteously
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 44
+Incorrect Spelled Word: pitied
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 343
+Incorrect Spelled Word: placed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 123
+Incorrect Spelled Word: plainly
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 67, 356
+Incorrect Spelled Word: plates
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 94, 102, 104
+Incorrect Spelled Word: played
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 224
+Incorrect Spelled Word: playing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 8
+Incorrect Spelled Word: pleased
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 262
+Incorrect Spelled Word: prayed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 134
+Incorrect Spelled Word: prayers
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 7, 344
+Incorrect Spelled Word: prepared
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 17
+Incorrect Spelled Word: presented
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 139, 215
+Incorrect Spelled Word: presently
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 154, 173
+Incorrect Spelled Word: prevailed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 117
+Incorrect Spelled Word: proclaimed
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 106, 416
+Incorrect Spelled Word: promised
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 166
+Incorrect Spelled Word: promises
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 200
+Incorrect Spelled Word: promising
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 132, 338
+Incorrect Spelled Word: prosperity
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 435
+Incorrect Spelled Word: pulled
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 31, 311, 375
+Incorrect Spelled Word: purses
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 222
+Incorrect Spelled Word: raised
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 291, 325
+Incorrect Spelled Word: reached
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 32, 284
+Incorrect Spelled Word: reality
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 86
+Incorrect Spelled Word: received
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 390, 413
+Incorrect Spelled Word: reconciled
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 399
+Incorrect Spelled Word: recourse
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 103
+Incorrect Spelled Word: refused
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 62, 136, 228
+Incorrect Spelled Word: refusing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 184
+Incorrect Spelled Word: reigned
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 474
+Incorrect Spelled Word: rejoicing
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 151, 190
+Incorrect Spelled Word: remained
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 75, 129, 276, 310
+Incorrect Spelled Word: remembered
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 195, 279
+Incorrect Spelled Word: remind
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 193
+Incorrect Spelled Word: replied
+Number Of Occurrences: 10
+Page Numbers: 1
+Lines at error found: , 10, 80, 97, 156, 206, 264, 301, 441, 449, 469
+Incorrect Spelled Word: reply
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 289, 378
+Incorrect Spelled Word: requesting
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 465
+Incorrect Spelled Word: resolved
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 393
+Incorrect Spelled Word: resounded
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 244
+Incorrect Spelled Word: returned
+Number Of Occurrences: 5
+Page Numbers: 1
+Lines at error found: , 93, 261, 381, 397, 446
+Incorrect Spelled Word: richer
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 145
+Incorrect Spelled Word: richly
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 211, 219
+Incorrect Spelled Word: riding
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 321
+Incorrect Spelled Word: robbed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 357
+Incorrect Spelled Word: roc
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 441, 445, 448, 451
+Incorrect Spelled Word: rolled
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 65
+Incorrect Spelled Word: rubbed
+Number Of Occurrences: 7
+Page Numbers: 1
+Lines at error found: , 76, 155, 311, 316, 345, 411, 450
+Incorrect Spelled Word: rubies
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 235, 258
+Incorrect Spelled Word: sadly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 340
+Incorrect Spelled Word: saluted
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 245
+Incorrect Spelled Word: sayest
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 141
+Incorrect Spelled Word: saying
+Number Of Occurrences: 12
+Page Numbers: 1
+Lines at error found: , 12, 40, 49, 79, 155, 199, 229, 376, 391, 401, 461, 464
+Incorrect Spelled Word: scaling
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 327
+Incorrect Spelled Word: scented
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 219
+Incorrect Spelled Word: scolded
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 300
+Incorrect Spelled Word: seemed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 416
+Incorrect Spelled Word: seized
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 109
+Incorrect Spelled Word: seizing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 467
+Incorrect Spelled Word: separated
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 189
+Incorrect Spelled Word: shivering
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 170
+Incorrect Spelled Word: shocks
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 408
+Incorrect Spelled Word: showed
+Number Of Occurrences: 8
+Page Numbers: 1
+Lines at error found: , 67, 84, 239, 263, 271, 332, 415, 438
+Incorrect Spelled Word: showing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 26
+Incorrect Spelled Word: shutters
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 107
+Incorrect Spelled Word: sighed
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 178
+Incorrect Spelled Word: sights
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 26
+Incorrect Spelled Word: singing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 355
+Incorrect Spelled Word: sitting
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 298, 410
+Incorrect Spelled Word: slaves
+Number Of Occurrences: 8
+Page Numbers: 1
+Lines at error found: , 202, 208, 220, 221, 224, 235, 242, 248
+Incorrect Spelled Word: smiles
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 384
+Incorrect Spelled Word: snatched
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 308
+Incorrect Spelled Word: snatching
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 92
+Incorrect Spelled Word: sooner
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 222
+Incorrect Spelled Word: sorrows
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 371
+Incorrect Spelled Word: soundly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 169
+Incorrect Spelled Word: sparkled
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 119
+Incorrect Spelled Word: speaking
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 377
+Incorrect Spelled Word: splendidly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 203
+Incorrect Spelled Word: spoilt
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 448
+Incorrect Spelled Word: stables
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 235
+Incorrect Spelled Word: stands
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 55
+Incorrect Spelled Word: steps
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 50, 51
+Incorrect Spelled Word: sticks
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 38
+Incorrect Spelled Word: stones
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 86, 231
+Incorrect Spelled Word: stories
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 34
+Incorrect Spelled Word: stranger
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 9, 11
+Incorrect Spelled Word: streets
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 6, 9, 223
+Incorrect Spelled Word: strewing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 224
+Incorrect Spelled Word: succeeded
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 474
+Incorrect Spelled Word: summoned
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 208
+Incorrect Spelled Word: supped
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 254
+Incorrect Spelled Word: supper
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 17
+Incorrect Spelled Word: surpassing
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 220
+Incorrect Spelled Word: surprised
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 20, 270
+Incorrect Spelled Word: surprises
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 259
+Incorrect Spelled Word: tales
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 426
+Incorrect Spelled Word: talking
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 286
+Incorrect Spelled Word: tears
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 7, 23, 378, 392
+Incorrect Spelled Word: telling
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 217, 423
+Incorrect Spelled Word: thanked
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 290
+Incorrect Spelled Word: things
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 80
+Incorrect Spelled Word: thinking
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 204, 422, 427
+Incorrect Spelled Word: threatened
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 135, 185
+Incorrect Spelled Word: threatening
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 329
+Incorrect Spelled Word: throwing
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 64, 345
+Incorrect Spelled Word: thunderstruck
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 140
+Incorrect Spelled Word: tired
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 33, 394
+Incorrect Spelled Word: touching
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 53
+Incorrect Spelled Word: towards
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 315, 426
+Incorrect Spelled Word: transported
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 161, 171
+Incorrect Spelled Word: travelled
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 284, 420
+Incorrect Spelled Word: treated
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 245, 361
+Incorrect Spelled Word: trees
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 54, 60
+Incorrect Spelled Word: trembled
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 40
+Incorrect Spelled Word: trumpets
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 243
+Incorrect Spelled Word: trusting
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 121
+Incorrect Spelled Word: turned
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 21, 199
+Incorrect Spelled Word: turning
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 140
+Incorrect Spelled Word: unbound
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 330
+Incorrect Spelled Word: undo
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 268
+Incorrect Spelled Word: unfinished
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 234, 260, 263
+Incorrect Spelled Word: unfolded
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 139
+Incorrect Spelled Word: unhappy
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 174
+Incorrect Spelled Word: unjust
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 166
+Incorrect Spelled Word: unluckily
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 295
+Incorrect Spelled Word: used
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 19, 266
+Incorrect Spelled Word: vainly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 357
+Incorrect Spelled Word: values
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 142
+Incorrect Spelled Word: veiled
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 110
+Incorrect Spelled Word: violence
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 379
+Incorrect Spelled Word: virtues
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 100
+Incorrect Spelled Word: visited
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 270
+Incorrect Spelled Word: vizier
+Number Of Occurrences: 18
+Page Numbers: 1
+Lines at error found: , 121, 126, 129, 132, 140, 142, 152, 157, 161, 164, 174, 186, 187, 197, 272, 317, 317, 326
+Incorrect Spelled Word: waited
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 149
+Incorrect Spelled Word: walked
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 241
+Incorrect Spelled Word: wandered
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 342
+Incorrect Spelled Word: wanted
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 142
+Incorrect Spelled Word: wants
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 128, 440
+Incorrect Spelled Word: ways
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 8
+Incorrect Spelled Word: weariness
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 353
+Incorrect Spelled Word: wedding
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 252
+Incorrect Spelled Word: wicked
+Number Of Occurrences: 2
+Page Numbers: 1
+Lines at error found: , 420, 470
+Incorrect Spelled Word: willingly
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 251
+Incorrect Spelled Word: windows
+Number Of Occurrences: 5
+Page Numbers: 1
+Lines at error found: , 233, 257, 299, 370, 413
+Incorrect Spelled Word: wines
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 394
+Incorrect Spelled Word: wished
+Number Of Occurrences: 3
+Page Numbers: 1
+Lines at error found: , 189, 261, 437
+Incorrect Spelled Word: wishes
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 376
+Incorrect Spelled Word: wondered
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 357
+Incorrect Spelled Word: words
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 40
+Incorrect Spelled Word: wouldst
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 79
+Incorrect Spelled Word: years
+Number Of Occurrences: 4
+Page Numbers: 1
+Lines at error found: , 21, 104, 277, 475
+Incorrect Spelled Word: younger
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 419
+Incorrect Spelled Word: yours
+Number Of Occurrences: 1
+Page Numbers: 1
+Lines at error found: , 46
